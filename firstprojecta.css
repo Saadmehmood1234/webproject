@@ -27,7 +27,8 @@
     margin-bottom: 20px;
 }
 .todo-app h2 img{
-width:30px;
+    width:30px;
+    margin:15px;
 
 }
 .row{
